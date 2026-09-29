@@ -84,11 +84,11 @@ Keeping the feature column order is important because the frontend must provide 
 
 Clone the repository:
 
-git clone https://github.com/burhan-arshad24/healthcare-stroke-prediction
+git clone https://github.com/burhan-arshad/healthcare-stroke-prediction
 
 Move into the project directory:
 
-cd stroke-prediction-ann
+cd healthcare-stroke-prediction
 
 Create and activate a virtual environment if required:
 
@@ -110,7 +110,7 @@ The application will open in the browser.
 
 ## Project Structure
 
-stroke-prediction-ann/
+healthcare-stroke-prediction/
 
 ├── app.py
 ├── model.keras
